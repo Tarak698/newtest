@@ -1,1 +1,5 @@
 Please Krishna Come nn
+
+class B {
+
+}
